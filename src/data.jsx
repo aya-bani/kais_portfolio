@@ -22,7 +22,7 @@ import chapterreward from '/assets/videos/chapter reward box.mp4'
 import vrlabimg from '/assets/images/projet9.png'
 import chapterimg from '/assets/images/projet10.png'
 import Learniverse from '/assets/videos/Learniverse.mp4'
-
+import learniverseimg from '/assets/images/Learniverse.jpeg'
 export const works = [
   {
     img: classQuizLogoImg, 
@@ -146,7 +146,7 @@ export const works = [
     },
       {
       videoSrc: Learniverse,
-      blurryimg :'',
+      blurryimg :learniverseimg,
       title: 'Learniverse Prototype',
       description: ' Learniverse is an augmented reality (AR) application designed to enhance practical learning for university students. Built using the XREAL SDK, it delivers immersive, step-by-step workshop experiences directly through XREAL AR glasses. The application allows users to visualize tasks in real time and replicate them in the physical world by following precise, interactive overlays. By bridging theoretical knowledge with hands-on execution, Learniverse creates an intuitive learning environment where students can practice, experiment, and develop technical skills more effectively.'
     }
