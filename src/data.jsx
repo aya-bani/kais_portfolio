@@ -141,8 +141,8 @@ export const works = [
     {
       videoSrc: chapterreward,
       blurryimg :chapterimg,
-      title: 'chapter reward box',
-      description: 'I designed this DoTween animation to bring the reward boxes to life when students or players complete a chapter in the ClassQuiz game, adding a satisfying and engaging feedback moment to celebrate their progress.'
+      title: ' Scripting Animation VR AimLab',
+      description: 'Experimenting with creating nice environments using high quality materials and textures, currently in progress to be transformed into a fishing game.'
     },
       {
       videoSrc: Learniverse,
