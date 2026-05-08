@@ -112,7 +112,7 @@ export const works = [
       videoSrc: environmentVideo,
       blurryimg: blurry_environement,
       title: 'HDRP Environment',
-      description: 'Its an unfinished project, in fact my most recent one, the main goal is to experiment with creating a nice environment using high quality materials and textures, I aim to transform it into a fishing or survival game.'
+      description: 'Experimenting with creating nice environments using high quality materials and textures, currently in progress to be transformed into a fishing game.'
     },
     {
       videoSrc: endlessRunnerVideo,
@@ -135,14 +135,14 @@ export const works = [
     {
       videoSrc: vraimlab,
       blurryimg :vrlabimg,
-      title: 'vr aimlab',
+      title: 'Scripting Animations',
       description: 'I decided to elevate my first project, Aim Lab, by transforming it into an immersive VR experience. This upgraded version became a valuable teaching tool, which I used to introduce Singapore Polytechnic students to the fundamentals of virtual reality using Unity’s XR Interaction Toolkit.'
     },
     {
       videoSrc: chapterreward,
       blurryimg :chapterimg,
-      title: ' Scripting Animation VR AimLab',
-      description: 'Experimenting with creating nice environments using high quality materials and textures, currently in progress to be transformed into a fishing game.'
+      title: 'chapter reward box',
+      description: 'I designed this DoTween animation to bring the reward boxes to life when students or players complete a chapter in the ClassQuiz game, adding a satisfying and engaging feedback moment to celebrate their progress.'
     },
       {
       videoSrc: Learniverse,
