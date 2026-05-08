@@ -21,7 +21,7 @@ import vraimlab from '/assets/videos/vr aimlab.mp4';
 import chapterreward from '/assets/videos/chapter reward box.mp4'
 import vrlabimg from '/assets/images/projet9.png'
 import chapterimg from '/assets/images/projet10.png'
-
+import Learniverse from '/assets/videos/Learniverse.mp4'
 
 export const works = [
   {
@@ -143,5 +143,11 @@ export const works = [
       blurryimg :chapterimg,
       title: 'chapter reward box',
       description: 'I designed this DoTween animation to bring the reward boxes to life when students or players complete a chapter in the ClassQuiz game, adding a satisfying and engaging feedback moment to celebrate their progress.'
+    },
+      {
+      videoSrc: Learniverse,
+      blurryimg :'',
+      title: 'Learniverse Prototype',
+      description: ' Learniverse is an augmented reality (AR) application designed to enhance practical learning for university students. Built using the XREAL SDK, it delivers immersive, step-by-step workshop experiences directly through XREAL AR glasses. The application allows users to visualize tasks in real time and replicate them in the physical world by following precise, interactive overlays. By bridging theoretical knowledge with hands-on execution, Learniverse creates an intuitive learning environment where students can practice, experiment, and develop technical skills more effectively.'
     }
   ];

@@ -33,7 +33,7 @@ const Contact = () => {
 
       <div className="mt-6 w-full  border-t border-gray-300 pt-4 flex justify-between p-8 ">
 
-        <p className="text-gray-600">© 2024 All rights reserved.</p>
+        <p className="text-gray-600">© 2026 All rights reserved.</p>
         <a href="https://www.linkedin.com/in/kais-khalifa/" className="hidden md:block text-gray-600">LinkedIn</a>
 
       </div>
