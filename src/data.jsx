@@ -135,13 +135,13 @@ export const works = [
     {
       videoSrc: vraimlab,
       blurryimg :vrlabimg,
-      title: 'Scripting Animations',
+      title: 'VR AimLab',
       description: 'I decided to elevate my first project, Aim Lab, by transforming it into an immersive VR experience. This upgraded version became a valuable teaching tool, which I used to introduce Singapore Polytechnic students to the fundamentals of virtual reality using Unity’s XR Interaction Toolkit.'
     },
     {
       videoSrc: chapterreward,
       blurryimg :chapterimg,
-      title: 'chapter reward box',
+      title: 'Scripting Animations',
       description: 'I designed this DoTween animation to bring the reward boxes to life when students or players complete a chapter in the ClassQuiz game, adding a satisfying and engaging feedback moment to celebrate their progress.'
     },
       {
